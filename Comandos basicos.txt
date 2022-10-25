@@ -1,0 +1,4 @@
+git config --list (para ver los cambios de la configuracion)
+git add .(para agregar los cambios en la carpeta del repositorio)
+git status(para ver los cambios realizados en el repositorio)
+git clone direccion del repositorio(clona el repositorio online en la carpeta donde seteamos el bash)
